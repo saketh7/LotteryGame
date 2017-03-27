@@ -7,7 +7,7 @@ import java.util.Scanner;
  */
 /* new line
 */
-
+// hello
 public class LotteryMainApp 
 {
     public static void main( String[] args )
