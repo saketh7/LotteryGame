@@ -5,6 +5,9 @@ import java.util.Scanner;
  * @author Saketh Mudrakola
  *
  */
+/* new line
+*/
+
 public class LotteryMainApp 
 {
     public static void main( String[] args )
